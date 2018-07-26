@@ -70,6 +70,7 @@ the algs4 repository and run Maven.
 cd <algs4 directory>
 mvn clean install
 
+
 Maven will put algs4-<version>.jar in the directory <algs4 directory>/target.
 You can use this jar as a dependency in your projects.
 
